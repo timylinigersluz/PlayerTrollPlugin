@@ -1,0 +1,8 @@
+name: PlayerTroll
+version: '${project.version}'
+main: ch.ksrminecraft.playertroll.PlayerTroll
+api-version: '1.20'
+commands:
+  troll:
+    description: Einen Spieler trollen
+    usage: /troll <Player> <Trollgrund>
